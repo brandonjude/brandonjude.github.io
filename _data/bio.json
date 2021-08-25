@@ -1,57 +1,50 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Brandon Marcos",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://brandonjude.github.io/images/brandon_profile.png",
+    "email": "bjmarcos@hawaii.edu",
+    "phone": "",
+    "website": "https://brandonjude.github.io",
+    "summary": "Hi everyone! I am a Management Information Systems student in the Shidler College of Business. I plan to graduate in Spring 2023 ",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "",
+      "city": "",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "brandonjude",
+        "url": "http://github.com/brandonjude"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Brandon Jude Marcos",
+        "url": "https://www.linkedin.com/in/brandon-jude-marcos-336a031a9"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Information Technology",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Networking",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Photography",
+      "keywords": [
+      ]
+    }
+        {
+      "name": "Fitness",
       "keywords": [
       ]
     }
