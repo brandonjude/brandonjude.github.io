@@ -51,15 +51,14 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Information Technology",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Computer hardware maintenance",
+        "Printer troubleshooting",
+        "Peripherals",
+        "Networking",
+        "Software installs/updates"
       ]
     },
     {
@@ -67,36 +66,40 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Linux",
+        "Windows",
+        "Github",
+        "Terminal",
+        "CMD"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Management Information Systems (expected Fall, 2023)",
+      "studyType": "B.B.A.",
+      "startDate": "2019-08-24",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.87",
       "courses": [
+        "ICS101 Intro to Computer Science",
+        "ICS211 Intro to Computer Science II",
+        "ITM352 Programming Application Systems"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Kauai Community College",
+      "position": "IT Student Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2021-07-26",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Assisting IT Specialists configure and troubleshoot Windows 10 OS, computer hardware, network, and printers",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Imaging and deploying workstations to 20+ classrooms",
+        "Terminating ethernet cables to provide internet connectivity to clients in Digital Media lab"
       ]
     },
     {
