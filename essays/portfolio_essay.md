@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Why I Majored in MIS
+title: Why I'm Majoring in MIS
 # All dates must be YYYY-MM-DD format!
 date: 2021-08-25
 labels:
