@@ -24,7 +24,7 @@ Though BrowserHistory1 took the longest to complete, it was the least difficult 
 And your Table of Content list item would look like this:
 
 ```html
-<li><a href="internet_explorer">Internet Explorer</a></li>
+<li><a href="#internet_explorer">Internet Explorer</a></li>
 ```
 
 For BrowserHistory2...
