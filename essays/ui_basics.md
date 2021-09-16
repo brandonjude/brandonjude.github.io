@@ -27,4 +27,18 @@ And your Table of Content list item would look like this:
 <li><a href="#internet_explorer">Internet Explorer</a></li>
 ```
 
-For BrowserHistory2...
+BrowserHistory2 was slightly more complex than the previous. In addition to referencing elements in the CSS document, I needed to link the Google Fonts API to the HTML document properly. The Google Font API allows you to pull font files from the Google database and use the font style in your webpage. When I first viewed the Google API website, I was unsure where to locate the URL that I could paste into my document to reference the API and pull the font. I needed the API URL and the syntax for referencing the font in the CSS document. However, after further investigation, I figured out that the URL and CSS syntax is accessed by clicking on the tiles menu icon in the top right corner of the webpage. 
+
+!["Google Fonts API"](google_fonts.jpg)
+
+I also needed to remind myself that the CSS document will cache itself within the browser, and a forced refresh is necessary if you want to see updated CSS configurations. 
+
+BrowserHistory3 was not difficult. After placing each web browser section within their own 'Div' containers, I used the float attribute to position each section side by side. 
+
+```css
+div {
+    width: 300px;
+    float: left;
+    padding: 0px 10px 0px 10px;
+}
+```
